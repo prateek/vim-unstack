@@ -114,7 +114,7 @@ extractor to the list:
 * set g:unstack_extractors to the combined list
 
 ==============================================================================
-EXTRACTORS                                       *unstack_extractors*
+EXTRACTORS                                       *extractors*
 
 Extractors are dicts with an extract method that takes in text and returns a 
 stack trace in the form [[filea, linea], [fileb, lineb]... ] by writing your
