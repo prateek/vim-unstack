@@ -20,7 +20,7 @@ CONTENTS                                         *unstack_contents*
   ║  ├ open_tab................................. |unstack_open_tab|
   ║  └ extractors............................... |unstack_extractors|
   ║                                                                           
-  ╠ Extractors ───────────────────────────────── |unstack_extractors|
+  ╠ Extractors ───────────────────────────────── |extractors|
   ║  └ Regex Extractors......................... |unstack_regex_extractors|
   ║                                                                           
   ╙ Limitations ──────────────────────────────── |unstack_limitations|
